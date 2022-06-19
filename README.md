@@ -3,4 +3,4 @@
 
 ## 碎碎念
 
-感觉markdown写起来还是有点怪怪的
+<P style="colors:red">markdown</p>
